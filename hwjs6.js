@@ -41,6 +41,3 @@ var services = {
         return max + " грн";
     }
 };
-console.log(services.price());
-console.log(services.minPrice());
-console.log(services.maxPrice());
